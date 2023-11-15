@@ -1,5 +1,5 @@
-# Stable Diffusion web UI
-A browser interface based on Gradio library for Stable Diffusion.
+# AMP Wrapper for Stable Diffusion Web UI in CML
+Run a browser interface based on Gradio library for Stable Diffusion within the CML platform. Use the raw `catalog-entry.yaml` to add to your environment or run directly from the Git link.
 
 ![](screenshot.png)
 
