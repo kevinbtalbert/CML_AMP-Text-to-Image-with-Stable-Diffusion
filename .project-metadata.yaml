@@ -7,6 +7,12 @@ specification_version: 1.0
 prototype_version: 1.0
 date: "2023-11-15"
 
+environment_variables:
+  PYTHONPATH:
+    default: "/home/cdsw/.local/lib/python3.9/site-packages"
+    description: "Leave this value as is. This is required by CML due to cml-addons module overriding user installed modules."
+    required: true
+
 runtimes:
   - editor: JupyterLab
     kernel: Python 3.9
