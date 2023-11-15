@@ -10,11 +10,10 @@ entries:
         This AMP enables organizations to deploy a text to image UI, currated by prompts from the user.
 
     image_path: >-
-      https://raw.githubusercontent.com/kevinbtalbert/CML_AMP-Text-to-Image-with-Stable-Diffusion/main/catalog-entry.png
+      https://raw.githubusercontent.com/kevinbtalbert/CML_AMP-Text-to-Image-with-Stable-Diffusion/master/catalog-entry.png
     tags:
       - Stable Diffusion
       - Text-to-Image
-      - Mistral 7B
       - Generative AI
       - NLP
     git_url: 'https://github.com/kevinbtalbert/CML_AMP-Text-to-Image-with-Stable-Diffusion'
