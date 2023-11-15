@@ -19,7 +19,7 @@ tasks:
     short_summary: Install Dependencies
     kernel: python3
     cpu: 4
-    memory: 16
+    memory: 12
     
   - type: start_application
     name: Stable Diffusion Text to Image
